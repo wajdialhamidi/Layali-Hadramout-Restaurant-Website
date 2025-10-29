@@ -42,7 +42,7 @@ The system also includes a **full admin dashboard**, allowing the restaurant to 
 |------------|-------------|
 | **Frontend** | HTML, CSS, JavaScript, Bootstrap / Tailwind |
 | **Backend** | PHP / Laravel (for admin dashboard and dynamic content) |
-| **Database** | MySQL / MariaDB |
+| **Database** | MySQL  |
 | **Order Integration** | WhatsApp API / direct messaging |
 | **Version Control** | Git & GitHub |
 | **Deployment** | Shared hosting / VPS |
